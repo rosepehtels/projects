@@ -12,3 +12,5 @@ personal coding &amp; development projects i've created
 
 [Blog Base Code @rosepehtels](https://github.com/rosepehtels/projects/tree/main/blogbasecode) - HTML, CSS, JavaScript
 
+[Weather App](https://github.com/rosepehtels/projects/blob/main/Weather_App.py) - Python
+
